@@ -50,3 +50,16 @@ header a.logo{
     left: 50%;
     margin-left: -70px;
 }
+
+@media (min-width: 1000px) {
+    header svg{
+        width: 200px;
+    }
+    header a.logo{
+        margin-right: 40px;
+        position: relative;
+        top:initial;
+        left: initial;
+        margin-left: initial;
+    }
+}
