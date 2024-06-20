@@ -28,3 +28,15 @@ a{
 svg{
     fill: #fff;
 }
+
+header{
+    display: flex;
+    align-items: center;
+    padding: 20px 50px;
+    max-width: 1400px;
+    margin: 0 auto;
+    height: 40px;
+    position: fixed;
+    top:0;
+    z-index: 2;
+}
