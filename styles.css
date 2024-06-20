@@ -18,3 +18,13 @@ body{
     color:#fff;
     font-family: D-DIN-Bold,Arial,Verdana,sans-serif;
 }
+
+a{
+    color: #fff;
+}
+
+/* svg ( scalable vector graphics ) */
+
+svg{
+    fill: #fff;
+}
