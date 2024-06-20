@@ -6,3 +6,9 @@
     font-family: D-DIN-Regular, sans-serif;
     src: url('fonts/d-din/D-DIN.otf');
 }
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
