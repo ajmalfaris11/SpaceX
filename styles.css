@@ -262,3 +262,33 @@ section div.content a span{
 section div.content a:hover span{
     color:#000;
 }
+
+/* ======= footer design ======= */
+
+
+footer{
+    padding: 50px;
+    font-size: 12px;
+    font-family: D-DIN-Regular,sans-serif;
+}
+
+footer nav{
+    text-align: center;
+}
+
+footer nav span{
+    color: #777;
+    display: inline-block;
+    padding-right: 30px;
+    text-transform: uppercase;
+}
+
+footer nav a{
+    padding: 0 20px;
+    text-decoration: none;
+    transition: color .2s linear;
+}
+
+footer nav a:hover{
+    color: #aaa;
+}

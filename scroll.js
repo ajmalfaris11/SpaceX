@@ -6,6 +6,6 @@ const observer = new IntersectionObserver(function (entries) {
     });
   }, {threshold: .8});
 
-  document.querySelectorAll('section').forEach(section => {
+    document.querySelectorAll('section').forEach(section => {
     observer.observe(section);
   });
