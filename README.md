@@ -36,7 +36,7 @@ To get a local copy up and running, follow these steps:
 
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/yourusername/spacex-friendent-design.git
+   git clone https://https://github.com/ajmalfaris11/SpaceX
    ```
 2. **Navigate to the Project Directory:**
    ```sh
